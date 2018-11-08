@@ -15,3 +15,4 @@ for(var i=a.length-1;i>=0;i--)
 return a;
 }
 console.log(array([12,3,4,6]));
+console.log('hello')
